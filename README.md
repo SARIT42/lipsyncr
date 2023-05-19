@@ -9,8 +9,9 @@ LipSyncr is a *lip reading web application designed to accurately decipher spoke
 
 ### Dataset 
 The dataset used for training the model is a subset of the [Grid Corpus Dataset](https://spandh.dcs.shef.ac.uk//gridcorpus/) .
+Used ```gdown``` to download a subset (1 speaker) of the full dataset (34 speakers) from google drive.
 
-To Download please run the following line of code in your terminal:
+To Download complete dataset please run the following line of code in your terminal:
 ```
 bash GridCorpus-Downloader.sh FirstSpeaker SecondSpeaker
 ```
