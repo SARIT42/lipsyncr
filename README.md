@@ -26,6 +26,9 @@ where FirstSpeaker and SecondSpeaker are integers for the number of speakers to 
 4. ffmpeg -> video file format conversion
 6. opencv -> video capture and frames processing.
 
+### Note: Further Scope
+Implementing dlib for video processing to include all types of videos, including live video input.
+
 ### References
 1. [LipNet: End-to-End Sentence-level Lipreading - Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas](https://arxiv.org/abs/1611.01599)
 2. [Sequence Modelling with Connectionist Temporal Classification(CTC), an algorithm used to train deep neural networks in speech recognition, handwriting recognition and other sequence problems.](https://distill.pub/2017/ctc/)
